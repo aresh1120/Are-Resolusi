@@ -34,6 +34,10 @@ PROJECT
 - Project
 
 STATISTIC
--
--
--
+* Chart JS*
+ - Area Chart
+ - Line Chart
+ - Donut Chart
+ - Bar Chart
+ - Pie Chart
+- Stacked Bar Chart
